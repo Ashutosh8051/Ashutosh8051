@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashutosh8051.github.io/ChoudharyAshutosh.github.io/](https://ashutosh8051.github.io/ChoudharyAshutosh.github.io/)
 
-- 📫 How to reach me **choudhary07.ashu@gmail.com@gmail.com**
+- 📫 How to reach me **choudhary07.ashu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
